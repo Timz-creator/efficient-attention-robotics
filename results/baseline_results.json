@@ -1,10 +1,10 @@
 {
     "model": "Standard Vision Transformer",
-    "avg_error_pixels": 6.331489966645533,
-    "accuracy_percent": 13.60204081632653,
-    "fps": 1172.5955705155804,
-    "latency_ms": 0.852808952331543,
-    "num_paramters": 208418,
-    "train_loss_final": 0.0114291232649465,
-    "val_loss_final": 0.012112192926376282
+    "avg_error_pixels": 0.13387457425497015,
+    "accuracy_percent": 100.0,
+    "fps": 1375.1545871228764,
+    "latency_ms": 0.7271909713745117,
+    "num_parameters": 208418,
+    "train_loss_final": 0.011222243264925724,
+    "val_loss_final": 0.011568224380636156
 }
