@@ -1,0 +1,18 @@
+Metric,Standard Attention,Multi-Query Attention
+Model Architecture,Vision Transformer,Vision Transformer
+Total Parameters,"208,418","183,458"
+Embedding Dimension,64,64
+Number of Heads,4,4
+Depth (Layers),4,4
+,,
+Average Error (pixels),0.13,0.24
+Accuracy (within 2px),100.00%,100.00%
+Training Loss (final),0.0112,0.0751
+Validation Loss (final),0.0116,0.0380
+,,
+Inference Speed (FPS),1375.15,1224.44
+Latency (ms),0.73,0.82
+,,
+Parameter Reduction,baseline,12.0%
+Speed Change,baseline,-11.0%
+Accuracy Change,baseline,+0.00%

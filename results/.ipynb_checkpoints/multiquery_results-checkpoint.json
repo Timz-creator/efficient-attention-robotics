@@ -1,0 +1,10 @@
+{
+    "model": "Multi-Query Vision Transformer",
+    "avg_error_pixels": 0.23999095026327638,
+    "accuracy_percejt": 100.0,
+    "fps": 1224.439131335955,
+    "latency_ms": 0.8167004585266113,
+    "num_parameters": 183458,
+    "train_loss_final": 0.07507299403450927,
+    "val_loss_final": 0.038015642394508914
+}
